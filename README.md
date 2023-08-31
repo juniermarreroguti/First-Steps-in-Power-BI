@@ -1,7 +1,9 @@
 # Primeiros passos com Power BI
 
+---
+
 <p align="justify"> 
-  
+
 &nbsp;&nbsp;&nbsp;
 O **Power BI** é uma plataforma de análise de dados e visualização voltada para o mundo dos negócios. Entre suas principais vantagens estão a interface descomplicada e intuitiva, que facilita a coleta, transformação e visualização de dados de várias fontes. Isso resulta em painéis interativos com gráficos, tabelas dinâmicas, mapas e muito mais, dos quais é possível extrair insights significativos dos dados.
 
@@ -53,7 +55,7 @@ O dashboard apresentado a seguir proporciona uma compreensão aprofundada dos di
 |          |
 |:--------:|
 |![Dashboard feito com Power-BI para analisar recursos humanos](Analises_RH1.png)|
-|![Dashboard feito com Power-BI para analisar recursos humanos](Analises_RH2.png)
+|![Dashboard feito com Power-BI para analisar recursos humanos](Analises_RH2.png)|
 |**Dashboard do análises de recursos de uma empressa ficticia para**|
 
 
@@ -75,8 +77,6 @@ O dashboard apresentado a seguir proporciona insights valiosos que permitem às 
 |:--------:|
 |![Dashboard feito com Power-BI para analisar vendas](Vendas_Comercial.png)|
 |**Dashboard do análises das vendas de uma empressa ficticia**|
-
-
 
 </p>
 
