@@ -17,6 +17,8 @@ Nesse contexto, meu aprendizado em Power BI foi adquirido por meio do estudo aut
 
 **Dashboard: Análises de Estoque**
 
+---
+
 &nbsp;&nbsp;&nbsp;
 A análise de estoque é uma prática crucial para empresas que lidam com produtos físicos. Ela envolve o monitoramento, avaliação e interpretação dos níveis de estoque, a fim de tomar decisões informadas sobre compras, vendas, produção e gestão dos recursos disponíveis.
 
@@ -36,6 +38,7 @@ O dashoboard apresentado a seguir traz algumas dessas analises e se mostra impor
 
 **Dashboard: Analises de Recursos Humanos**
 
+---
 
 &nbsp;&nbsp;&nbsp;
 A análise de recursos humanos é um processo essencial para que as organizações compreendam e otimizem o desempenho de sua força de trabalho. Esse processo envolve a coleta, avaliação e interpretação de dados relacionados aos funcionários, permitindo tomar decisões informadas acerca de recrutamento, retenção, desenvolvimento e gestão de pessoal.
@@ -55,6 +58,8 @@ O dashboard apresentado a seguir proporciona uma compreensão aprofundada dos di
 
 
 **Dashboard: Analises de Vendas**
+
+---
 
 &nbsp;&nbsp;&nbsp;
 A análise de vendas é um processo essencial para as empresas compreenderem seu desempenho nas vendas, identificarem tendências, oportunidades e desafios, além de tomarem decisões estratégicas importantes.
